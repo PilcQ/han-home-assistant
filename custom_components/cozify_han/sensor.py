@@ -165,7 +165,7 @@ class CozifyBaseEntity(CoordinatorEntity):
             "model": "HAN Reader",
             "sw_version": version,
             "serial_number": serial,  # Tämä tuo sarjanumeron näkyviin listaukseen
-            "configuration_url": f"http://{self._entry.data[CONF_HOST]}/events",
+            "configuration_url": f"http://{self._entry.data[CONF_HOST]}/ui",
         }
 
 class CozifyEnergySensor(CozifyBaseEntity, SensorEntity):
