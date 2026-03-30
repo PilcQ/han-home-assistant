@@ -185,8 +185,7 @@ class CozifyBaseEntity(CoordinatorEntity):
             "manufacturer": "Cozify",
             "model": model,
             "sw_version": version,
-            "hw_version": hw_version,
-            "serial_number": serial,
+            "serial_number": serial,  # Tämä tuo sarjanumeron näkyviin listaukseen
             "configuration_url": f"http://{self._entry.data[CONF_HOST]}/ui",
         }
 
