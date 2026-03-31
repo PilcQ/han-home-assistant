@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/github/license/cozify/han-home-assistant?style=plastic)](https://github.com/cozify/han-home-assistant/blob/main/LICENSE)
 <br />
 
-If you find this integration useful, we would be grateful if you could add a star ⭐in here: <https://github.com/cozify/han-home-assistant>. This will bring us a step closer to getting the integration officially distributed in Home Assistant without the need for a separate custom repository.
+If you find this integration useful, we would be grateful if you could add a star ⭐. You can do it here: <https://github.com/cozify/han-home-assistant>
 
 # Cozify HAN for Home Assistant
 
