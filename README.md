@@ -1,5 +1,5 @@
 [![Current release](https://img.shields.io/github/v/release/cozify/han-home-assistant?style=plastic&label=Current%20release&include_prereleases)](https://github.com/cozify/han-home-assistant)
-[![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg?style=plastic)](https://github.com/hacs/integration)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=plastic)](https://github.com/hacs/integration)
 [![Stars](https://img.shields.io/github/stars/cozify/han-home-assistant?style=plastic)](https://github.com/cozify/han-home-assistant/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/cozify/han-home-assistant?style=plastic)](https://github.com/cozify/han-home-assistant/commits/main)
 [![License](https://img.shields.io/github/license/cozify/han-home-assistant?style=plastic)](https://github.com/cozify/han-home-assistant/blob/main/LICENSE)
