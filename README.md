@@ -9,7 +9,7 @@ If you find this integration useful, we would be grateful if you could add a sta
 
 # Cozify HAN for Home Assistant
 
-Custom integration for Home Assistant to fetch real-time energy data from the Cozify HAN (HAN/P1 meter).
+Custom integration for Home Assistant to fetch real-time energy data from the Cozify HAN (HAN/P1 meter). The full Cozify HAN API is available at <https://cozify.github.io/han-firmware/han-1.0.html> Using it, you can create additional integrations or other solutions even without Home Assistant. Please note that starting from FW version 1.0.1.7, the Cozify HAN device also includes a local user interface at http://<HAN-IP>/ui
 
 ## Features
 
