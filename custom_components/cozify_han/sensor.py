@@ -97,6 +97,16 @@ async def async_setup_entry(hass, entry, async_add_entities):
         CozifyArraySensor(coordinator, entry, "p", 1, "Power L1", UnitOfPower.WATT, device_info_init),
         CozifyArraySensor(coordinator, entry, "p", 2, "Power L2", UnitOfPower.WATT, device_info_init),
         CozifyArraySensor(coordinator, entry, "p", 3, "Power L3", UnitOfPower.WATT, device_info_init),
+        
+        CozifyArraySensor(coordinator, entry, "pi", 0, "Power Import Total", UnitOfPower.WATT, device_info_init),
+        CozifyArraySensor(coordinator, entry, "pi", 1, "Power Import L1", UnitOfPower.WATT, device_info_init),
+        CozifyArraySensor(coordinator, entry, "pi", 2, "Power Import L2", UnitOfPower.WATT, device_info_init),
+        CozifyArraySensor(coordinator, entry, "pi", 3, "Power Import L3", UnitOfPower.WATT, device_info_init),
+        
+        CozifyArraySensor(coordinator, entry, "pe", 0, "Power Export Total", UnitOfPower.WATT, device_info_init),
+        CozifyArraySensor(coordinator, entry, "pe", 1, "Power Export L1", UnitOfPower.WATT, device_info_init),
+        CozifyArraySensor(coordinator, entry, "pe", 2, "Power Export L2", UnitOfPower.WATT, device_info_init),
+        CozifyArraySensor(coordinator, entry, "pe", 3, "Power Export L3", UnitOfPower.WATT, device_info_init),    
 
         # --- CURRENT (V) ---
         CozifyArraySensor(coordinator, entry, "u", 0, "Voltage L1", UnitOfElectricPotential.VOLT, device_info_init),
