@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/github/license/cozify/han-home-assistant?style=plastic)](https://github.com/cozify/han-home-assistant/blob/main/LICENSE)
 <br />
 
-If you find this integration useful, we would be grateful if you could add a star ⭐. This will bring us a step closer to getting the integration officially distributed in Home Assistant without the need for a separate custom repository.
+If you find this integration useful, we would be grateful if you could add a star ⭐. You can do it here: <https://github.com/cozify/han-home-assistant>
 
 # Cozify HAN for Home Assistant
 
@@ -20,14 +20,14 @@ Custom integration for Home Assistant to fetch real-time energy data from the Co
 
 ## Installation
 
-### Via HACS (Custom Repository)
+### Cozify HAN installation (HACS Default)
 
-1. Open Home Assistant and go to HACS -> Integrations.
-2. Click the three dots in the upper right corner and select Custom repositories.
-3. Add the address of this repository: <https://github.com/cozify/han-home-assistant>
+1. Open HACS from the Home Assistant sidebar.
+2. Type into the search field at the top (Search) or click the + (Plus) button in the bottom-right corner and search for: Cozify HAN.
+3. Click the Cozify HAN search result.
 4. Select Integration as the category and click Add.
-5. Find "Cozify HAN" in the list and click Download.
-6. Restart Home Assistant.
+5. Click Download in the bottom-right corner.
+6. Restart Home Assistant so that the new files are loaded.
 
 ### Step 2: Enable integration
 
