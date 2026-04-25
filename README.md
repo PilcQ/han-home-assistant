@@ -7,7 +7,7 @@
 
 If you find this integration useful, we would be grateful if you could add a star ⭐. You can do it here: <https://github.com/cozify/han-home-assistant>
 
-##NOTE! - Change in version 1.0.14
+## NOTE! - Change in version 1.0.14
 
 Sensor "Cozify HAN Power MAX" will be deprecated in future versions and replaced by "Cozify HAN Power Import MAX" and "Cozify HAN Power Export MAX". Also "Cozify HAN Power Total" and "Cozify HAN Power L1-L3" will be deprecated and removed in future versions and replaced similarily with "Cozify HAN Power Import" & "Cozify HAN Power Import L1-L3" and "Cozify HAN Power Export" and "Cozify HAN Power Export L1-L3"
 
